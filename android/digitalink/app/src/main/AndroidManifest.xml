@@ -14,8 +14,7 @@
     <activity
         android:name="com.google.mlkit.samples.vision.digitalink.DigitalInkMainActivity"
         android:label="@string/title_activity_main"
-        android:exported="true"
-        android:screenOrientation="portrait">
+        android:exported="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
 
